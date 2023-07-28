@@ -33,6 +33,10 @@
                 {
                     "version": "0.14.0a1",
                     "update_link": "https://croydon.github.io/vtr-releases/files/vtr_developer_version-0.14.0a1.xpi"
+                },
+                {
+                    "version": "0.14.0a3",
+                    "update_link": "https://croydon.github.io/vtr-releases/files/vtr_developer_version-0.14.0a3.xpi"
                 }
             ]
         }
