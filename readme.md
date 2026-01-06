@@ -1,5 +1,4 @@
 # VTR Releases
 
-This is mostly to host beta releases of Vertical Tabs Reloaded.
-
-You most certainly want to go to https://github.com/Croydon/vertical-tabs-reloaded
+> [!CAUTION]
+> This repository is now replaced with https://github.com/Croydon/browser-addons-files
