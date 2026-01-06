@@ -57,6 +57,10 @@
                 {
                     "version": "0.14.0.11",
                     "update_link": "https://files.addons.cr0ydon.eu/vtr/files/vtr_developer_version-0.14.0.11_0.14.0-alpha.11.xpi"
+                },
+                {
+                    "version": "0.14.0.13",
+                    "update_link": "https://files.addons.cr0ydon.eu/vtr/files/vtr_developer_version-0.14.0.13_0.14.0-alpha.13.xpi"
                 }
             ]
         }
